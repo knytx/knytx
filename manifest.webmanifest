@@ -1,0 +1,14 @@
+{
+    "name": "KnytX",
+    "short_name": "KnytX",
+    "description": "KnytX",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#008080",
+    "display": "minimal-ui",
+    "icons": [{
+        "src": "icons/icon-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    }]
+}

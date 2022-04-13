@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>KnytX - All Services</title>
+	<link href="https://knytx.com/services/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://knytx.com/services/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-09-08T00:00:00+00:00</updated>
+	<id>https://knytx.com/services/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Automobile Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/auto/" type="text/html"/>
+		<id>https://knytx.com/services/auto/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Security Certifications</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/certs/" type="text/html"/>
+		<id>https://knytx.com/services/certs/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Cloud Infrastructure Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/cloud/" type="text/html"/>
+		<id>https://knytx.com/services/cloud/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Security Consulting</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/consult/" type="text/html"/>
+		<id>https://knytx.com/services/consult/</id>
+		<content type="html">&lt;p&gt;With the consultancy approach, we can take the analysis further following a pentest and focus on specific security issues.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;securing-web-or-mobile-architecture&quot;&gt;Securing Web or Mobile Architecture&lt;&#x2F;h2&gt;
+&lt;p&gt;As part of a project for the development or redesign of a Web platform, it is advisable to integrate safety thinking from the technical and functional design phase.&lt;&#x2F;p&gt;
+&lt;p&gt;Tackling technical and functional specifications from the point of view of an attacker avoids classic pitfalls and incorporates security prerequisites into the specifications.&lt;&#x2F;p&gt;
+&lt;p&gt;The methodological approach is as follows:&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;launch-meeting&quot;&gt;Launch Meeting&lt;&#x2F;h3&gt;
+&lt;p&gt;In this first phase, we become acquainted with the development project and collect elements on the technical and functional context of the client.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;analysis&quot;&gt;Analysis&lt;&#x2F;h3&gt;
+&lt;p&gt;This phase consists in analyzing the architecture documentation provided by the client, in order to identify the technical weaknesses as well as the weaknesses related to the business logic.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;results-presentation&quot;&gt;Results Presentation&lt;&#x2F;h3&gt;
+&lt;p&gt;In the results presentation phase, we make technical security recommendations to the client, divided into 10 key themes (authentication, session management, confidentiality, integrity, continuity of service, technical protection of control of the application, functional protection of control of the application, elements to be tracked and logged, compliance constraints, configuration constraints).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;server-configuration-audit&quot;&gt;Server Configuration Audit&lt;&#x2F;h2&gt;
+&lt;p&gt;The white box audit of a server allows access to a level of information that is inaccessible for a pentester (except in the case of a major flaw) in order to secure the server configuration as much as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;This approach consists of conducting a security level analysis by having administrator access to the server.&lt;&#x2F;p&gt;
+&lt;p&gt;The white box audit of a server includes the following aspects:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysis of the server&#x27;s operating system (including the level of application of the patches)&lt;&#x2F;li&gt;
+&lt;li&gt;Analysis of privileges&lt;&#x2F;li&gt;
+&lt;li&gt;Analysis of the software configuration&lt;&#x2F;li&gt;
+&lt;li&gt;Analysis of the network configuration&lt;&#x2F;li&gt;
+&lt;li&gt;Analysis of the log system&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The audit also includes tests conducted from outside the server, similar to tests performed during a pentest, to detect unsecured open services, outdated software, security element breaches, or configuration errors.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;source-code-audit&quot;&gt;Source Code Audit&lt;&#x2F;h2&gt;
+&lt;p&gt;Source code audit
+According to the same principle, the white box audit of an application allows access to a level of information that is inaccessible for a pentest (except in the case of a major flaw) in order to secure the application layer as much as possible.&lt;&#x2F;p&gt;
+&lt;p&gt;This approach consists in analyzing in detail the source code of the application in order to measure its level of security and propose corrective measures.&lt;&#x2F;p&gt;
+&lt;p&gt;This is particularly useful in two cases:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;to perform the most complete tests possible on critical functions&lt;&#x2F;li&gt;
+&lt;li&gt;to perform in-depth analysis of the code if difficulties are encountered in correcting certain security flaws following a pentest&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The white box audit of an application includes the analysis of the following aspects (this list is not exhaustive):&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Security measures implemented within the audited application (filters, blocking mechanisms, etc.)&lt;&#x2F;li&gt;
+&lt;li&gt;Third-party components and dependent elements (imported security flaws)&lt;&#x2F;li&gt;
+&lt;li&gt;Overall architecture of the solution (code architecture, inclusions, frameworks, database interactions, etc.)&lt;&#x2F;li&gt;
+&lt;li&gt;Elements of configuration of third-party frameworks and components&lt;&#x2F;li&gt;
+&lt;li&gt;Good security practices&lt;&#x2F;li&gt;
+&lt;li&gt;Interactions between the application and its host system (the operating system)&lt;&#x2F;li&gt;
+&lt;li&gt;Business logic
+This makes it possible to propose patches to protect against all known technical vulnerabilities (listed particularly by OWASP, such as injections, XSS, CSRF, XXE, etc.) as well as logic flaws related to the business rules implemented in the solution.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cms-audit&quot;&gt;CMS Audit&lt;&#x2F;h2&gt;
+&lt;p&gt;The white box audit of a Website based on a CMS [content management system] performs an in-depth search of the typical vulnerabilities of this type of site, or to find the source of the security problems that resulted in hacking.&lt;&#x2F;p&gt;
+&lt;p&gt;The approach applied during a CMS audit is twofold:&lt;&#x2F;p&gt;
+&lt;p&gt;CMS Analysis: Analysis of CMS configuration and installed plug-ins. Checking updates. In addition, an analysis of the files of the server and the database is performed, in order to carry out cleaning if corrupted elements are installed during hacking (whether or not hacking has been detected by the client).
+Pentest or Source code analysis: In the case of specific developments carried out involving the CMS, search for flaws related to the application layer and the workflow.
+The details of the work to be carried out will be adapted according to whether the audit is commissioned for the purpose of prevention or for the purpose of restoring a site that has been the victim of one (or more) attacks.&lt;&#x2F;p&gt;
+&lt;p&gt;This type of service applies to different content management systems, including: WordPress, Drupal, Joomla, Prestashop, Magento, etc.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>IoT Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/iot/" type="text/html"/>
+		<id>https://knytx.com/services/iot/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Mobile Application Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/mobile/" type="text/html"/>
+		<id>https://knytx.com/services/mobile/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Network Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/network/" type="text/html"/>
+		<id>https://knytx.com/services/network/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Reconnaissance Audit</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/recon/" type="text/html"/>
+		<id>https://knytx.com/services/recon/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Social Engineering Audit</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/social/" type="text/html"/>
+		<id>https://knytx.com/services/social/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Security Training</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/train/" type="text/html"/>
+		<id>https://knytx.com/services/train/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Web Application Security</title>
+		<published>2021-09-08T00:00:00+00:00</published>
+		<updated>2021-09-08T00:00:00+00:00</updated>
+		<link href="https://knytx.com/services/web/" type="text/html"/>
+		<id>https://knytx.com/services/web/</id>
+		<content type="html"></content>
+	</entry>
+</feed>
